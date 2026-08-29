@@ -41,12 +41,12 @@ const logs = [
   },
   { text: 'STARTING CAMERA FEED', color: chalk.cyan.bold, delay: 900 },
   { text: 'SYSTEM SECURE', color: chalk.green.bold, delay: 400 },
-  { text: '\n=== IRIS ONLINE ===', color: chalk.magenta.bold, delay: 100 }
+  { text: '\n=== AIRIS ONLINE ===', color: chalk.magenta.bold, delay: 100 }
 ]
 
 const runIRISWeb = async () => {
   console.clear()
-  console.log(chalk.dim('Starting IRIS Boot Sequence...\n'))
+  console.log(chalk.dim('Starting AIRIS Boot Sequence...\n'))
 
   for (const log of logs) {
     await sleep(log.delay)

@@ -54,7 +54,7 @@ const IRIS = ({
             className="flex flex-col leading-none"
           >
             <span className="font-black tracking-widest text-[14px] text-zinc-100 uppercase -ml-1.5">
-              IRIS AI
+              AIRIS-AI
             </span>
           </div>
         </div>

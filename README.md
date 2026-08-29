@@ -1,6 +1,6 @@
 <div align="center">
 
-![IRIS Neural OS Documentation Banner](./assets/banner.png)
+![AIRIS Neural OS Documentation Banner](./assets/banner.png)
 
 ### Voice-First Desktop AI Assistant
 
@@ -32,7 +32,9 @@
 
 </div>
 
-**Speak your command. IRIS executes it.**
+**Speak your command. AIRIS executes it.**
+
+> **Note:** Branding modified locally as **AIRIS-AI** (Artificial Intelligence Responsive Integrated System). Original project: **IRIS-AI** by **IRISX-AI**. This local copy maintains original author attribution, license, and functionality.
 
 A voice-first neural execution system powered by **Gemini 3.1 Live API** with real-time WebRTC audio, biometric security, and autonomous system control.
 
@@ -53,7 +55,7 @@ A voice-first neural execution system powered by **Gemini 3.1 Live API** with re
 - [📁 Project Structure](#-project-structure)
 - [🧠 Development Philosophy](#-development-philosophy)
 - [🤝 Contributing](#-contributing)
-- [🧩 Extending IRIS](#-extending-iris)
+- [🧩 Extending AIRIS](#-extending-iris)
 - [🧠 Roadmap](#-roadmap)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [👨‍💻 Architect](#-architect)
@@ -63,13 +65,13 @@ A voice-first neural execution system powered by **Gemini 3.1 Live API** with re
 
 # ⚡ Overview
 
-IRIS is not a chatbot.
+AIRIS is not a chatbot.
 
 It is a **Voice-First Desktop AI Assistant** that executes real-world actions across your system, applications, and devices—powered by **Gemini 3.1 Live API** with real-time bidirectional audio processing.
 
-> **Speak naturally. IRIS understands intent. Real actions execute instantly.**
+> **Speak naturally. AIRIS understands intent. Real actions execute instantly.**
 
-## What Makes IRIS Different?
+## What Makes AIRIS Different?
 
 ✅ **Voice-First Design** – Optimized for natural speech input with real-time WebRTC audio streaming  
 ✅ **Proprietary Agent Logic** – Heavily protected, production-grade agentic orchestration  
@@ -82,7 +84,7 @@ It is a **Voice-First Desktop AI Assistant** that executes real-world actions ac
 # ✨ What's New In v1.7.0
 
 - Added interactive **Quiz** and **Tic Tac Toe** widgets.
-- Deeper **System Control for IRIS**.
+- Deeper **System Control for AIRIS**.
 - Completely revamped **Dashboard UI** and **Settings UI** for a seamless experience.
 - Updated AI State colors: **Thinking (Blue)**, **Speaking (Green)**, and **Standby (White)**.
 - Enhanced Infrastructure: **New server** added for more stability and control.
@@ -94,7 +96,7 @@ It is a **Voice-First Desktop AI Assistant** that executes real-world actions ac
 
 # 🪡 Open Core Model
 
-### IRIS follows an Open Core development model.
+### AIRIS follows an Open Core development model.
 
 **The public repository includes**:
 
@@ -122,7 +124,7 @@ GitHub Sponsors receive access to additional documentation, implementation examp
 
 Traditional AI assistants are **text-first**: you type → they respond → you read.
 
-IRIS is **voice-first**: you speak → they listen & execute → actions happen in real-time.
+AIRIS is **voice-first**: you speak → they listen & execute → actions happen in real-time.
 
 ### Real-Time Audio Processing
 
@@ -143,7 +145,7 @@ Results Streamed Back to You
 - **Models:** Gemini 3.1 Live API (primary) + Groq (Fast Responses) + Hugging Face (Open-Sourced + Local Models)
 - **Search:** Tavily for real-time web data
 
-No local-only limitations. IRIS connects to **cloud AI, search engines, and APIs** for maximum intelligence.
+No local-only limitations. AIRIS connects to **cloud AI, search engines, and APIs** for maximum intelligence.
 
 ---
 
@@ -153,8 +155,8 @@ No local-only limitations. IRIS connects to **cloud AI, search engines, and APIs
 
 Autonomous voice activation hooks, advanced screen character peeling, and phantom inline input overlays.
 
-- **Wake Up Word Activation:** IRIS is configured for hands-free local startup. Speaking the wake word automatically opens the assistant window, performs local telemetry diagnostics, and checks real-time atmospheric updates.
-  - _Commands:_ "Hey, IRIS", "IRIS", "Wake up, IRIS"
+- **Wake Up Word Activation:** AIRIS is configured for hands-free local startup. Speaking the wake word automatically opens the assistant window, performs local telemetry diagnostics, and checks real-time atmospheric updates.
+  - _Commands:_ "Hey, AIRIS", "AIRIS", "Wake up, AIRIS"
 - **Phantom Control (Ghost Keyboard):** Inline typing injection overlay. Activating the shortcut creates a phantom input hook to inject typed keystrokes anywhere on the OS, integrating cleanly with VS Code.
   - _Commands:_ "Press Ctrl + Alt + Space", "Activate Phantom Typer", "Start Ghost Typer"
 - **ScreenPeeler (Multimodal AI OCR):** Intelligent rectangular region screen selection. Takes a high-resolution snapshot of any screen coordinate area, runs local/cloud multimodal extraction, and populates extracted text to your clipboard.
@@ -325,7 +327,7 @@ OS-level biometric encryption and multi-face recognition locks.
 
 ## ⚠️ Important: Core Code is Protected
 
-IRIS uses **enterprise-grade code protection** to secure proprietary agent logic and tool implementations:
+AIRIS uses **enterprise-grade code protection** to secure proprietary agent logic and tool implementations:
 
 ### What is Protected?
 
@@ -365,11 +367,11 @@ IRIS uses **enterprise-grade code protection** to secure proprietary agent logic
 
 ---
 
-# ⚡ Why Upgrade to IRIS Pro?
+# ⚡ Why Upgrade to AIRIS Pro?
 
-IRIS is built on an **Open Core model**. While the Free Tier (Public Repository) gives you access to the community UI and basic templates, the **core voice engine, agent loops, and advanced execution tools** are protected within the IRIS Pro ecosystem.
+AIRIS is built on an **Open Core model**. While the Free Tier (Public Repository) gives you access to the community UI and basic templates, the **core voice engine, agent loops, and advanced execution tools** are protected within the AIRIS Pro ecosystem.
 
-Upgrading to **IRIS Desktop PRO (₹999 + ₹27 processing fee = ₹1026 Total)**, **IRIS-MX Mobile PRO (₹1499 + ₹66 = ₹1565 Total)**, or the **IRIS Ultimate Bundle PRO (₹1999 + ₹97 = ₹2096 Total)** unlocks the complete autonomous controller experience.
+Upgrading to **AIRIS Desktop PRO (₹999 + ₹27 processing fee = ₹1026 Total)**, **AIRIS-MX Mobile PRO (₹1499 + ₹66 = ₹1565 Total)**, or the **AIRIS Ultimate Bundle PRO (₹1999 + ₹97 = ₹2096 Total)** unlocks the complete autonomous controller experience.
 
 ## 🎁 Free Tier (Base Engine)
 
@@ -385,16 +387,16 @@ Upgrading to **IRIS Desktop PRO (₹999 + ₹27 processing fee = ₹1026 Total)*
 - **Docs & Media:** Play Tic Tac Toe, Manage PC Settings, Get Stock Price, Spotify Control, Read Notes, Read Gallery.
 - **Usage Limits:** Rate limited to 10 turns and 5 tool calls per day. Quota resets everyday at 12:00 PM - 2:00 PM.
 
-## 🚀 IRIS Paid Pro Tiers
+## 🚀 AIRIS Paid Pro Tiers
 
-- **IRIS Desktop PRO:** ₹999 base + ₹27 gateway fee (₹1026 Total Checkout)
-- **IRIS-MX Mobile PRO:** ₹1499 base + ₹66 gateway fee (₹1565 Total Checkout)
-- **IRIS Ultimate Bundle PRO:** ₹1999 base + ₹97 gateway fee (₹2096 Total Checkout)
+- **AIRIS Desktop PRO:** ₹999 base + ₹27 gateway fee (₹1026 Total Checkout)
+- **AIRIS-MX Mobile PRO:** ₹1499 base + ₹66 gateway fee (₹1565 Total Checkout)
+- **AIRIS Ultimate Bundle PRO:** ₹1999 base + ₹97 gateway fee (₹2096 Total Checkout)
 
 ### Key Pro Capabilities:
 
 - **Instant License Activation:** Keyless Google OAuth upgrade. Pay once, keep it forever.
-- **Hands-Free Wake Up Word:** Passive offline activation ("Hey, IRIS").
+- **Hands-Free Wake Up Word:** Passive offline activation ("Hey, AIRIS").
 - **ScreenPeeler Multimodal AI OCR:** Instantly scan and extract text/code from your screen (Ctrl+Alt+X).
 - **Phantom Ghost Keyboard:** Global inline injection (Ctrl+Alt+Space).
 - **Small Ghost Overlay:** Instantly summon a fast-access floating command overlay via `Ctrl + Shift + I`.
@@ -419,7 +421,7 @@ Upgrading to **IRIS Desktop PRO (₹999 + ₹27 processing fee = ₹1026 Total)*
 
 1. **Authenticate with Google** to create your secure identity.
 2. **Purchase a License** via our Secure Checkout (Razorpay).
-3. **Unlock the IRIS PRO** instantly.
+3. **Unlock the AIRIS PRO** instantly.
 
 [**Check Out The Full Free vs PRO Tool Comparison**](./Comparison.md)
 
@@ -567,13 +569,13 @@ npm run build:linux  # Linux
 
 ## 🔑 System Keys & Configuration
 
-IRIS operates with **cloud-powered AI**, requiring specific API keys to function.
+AIRIS operates with **cloud-powered AI**, requiring specific API keys to function.
 
-To ensure absolute privacy and safety, **IRIS does not use local `.env` files** to store keys. All credentials must be entered directly into the secure application interface, where they are encrypted locally on your machine via the native OS keychain.
+To ensure absolute privacy and safety, **AIRIS does not use local `.env` files** to store keys. All credentials must be entered directly into the secure application interface, where they are encrypted locally on your machine via the native OS keychain.
 
 ### ⚙️ How to Configure
 
-- Open the IRIS Desktop App.
+- Open the AIRIS Desktop App.
 - Navigate to **Settings**.
 - Select the **API** tab.
 - Paste your keys and save them securely.
@@ -584,7 +586,7 @@ To ensure absolute privacy and safety, **IRIS does not use local `.env` files** 
 
 **[Google Gemini API](https://aistudio.google.com/app/apikey)**
 
-- Primary reasoning engine for IRIS.
+- Primary reasoning engine for AIRIS.
 - Real-time voice processing (WebRTC).
 - Multimodal vision capabilities.
 - Setup: Google AI Studio → Get API Key → Create.
@@ -966,7 +968,7 @@ To ensure absolute privacy and safety, **IRIS does not use local `.env` files** 
 
 # 🤝 Contributing
 
-IRIS welcomes contributions! Help expand the neural forge.
+AIRIS welcomes contributions! Help expand the neural forge.
 
 ### Quick Start
 
@@ -999,7 +1001,7 @@ IRIS welcomes contributions! Help expand the neural forge.
 
 ---
 
-# 🧩 Extending IRIS
+# 🧩 Extending AIRIS
 
 ### For Free Users
 
@@ -1036,15 +1038,15 @@ IRIS welcomes contributions! Help expand the neural forge.
 
 # ⚠️ Disclaimer
 
-IRIS has **deep system-level execution capabilities**.
+AIRIS has **deep system-level execution capabilities**.
 
 Use responsibly. The maintainers are not liable for misuse, data loss, or unintended actions.
 
-**By using IRIS, you agree:**
+**By using AIRIS, you agree:**
 
-- ✅ You understand IRIS executes real system commands
+- ✅ You understand AIRIS executes real system commands
 - ✅ You are responsible for API key security
-- ✅ You use IRIS ethically and legally
+- ✅ You use AIRIS ethically and legally
 - ✅ You do not reverse engineer protected code
 
 ---
@@ -1111,20 +1113,20 @@ npm run dev
 
 # 🚀 What's Next?
 
-**Speak. IRIS listens. Reality changes.**
+**Speak. AIRIS listens. Reality changes.**
 
 > System Online. Neural OS Activated.
 
 ---
 
-# ❤️ Support IRIS
+# ❤️ Support AIRIS
 
-If you find IRIS valuable, consider:
+If you find AIRIS valuable, consider:
 
 - ⭐ **Star** the repository
 - 💬 **Share** with your network
 - 🤝 **Sponsor** development ($5/month)
-- 🔗 **Integrate** IRIS into your workflow
+- 🔗 **Integrate** AIRIS into your workflow
 - 🐛 **Report** bugs & suggest features
 
 ---

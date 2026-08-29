@@ -49,13 +49,13 @@ app.whenReady().then(() => {
         if (sources && sources.length > 0) {
           callback({ video: sources[0] })
         } else {
-          console.error('[IRIS] No screens found to share.')
+          console.error('[AIRIS] No screens found to share.')
           // @ts-ignore - explicitly fail the callback safely
           callback()
         }
       })
       .catch((err) => {
-        console.error('[IRIS] Screen capture failed:', err)
+        console.error('[AIRIS] Screen capture failed:', err)
         // @ts-ignore
         callback()
       })
