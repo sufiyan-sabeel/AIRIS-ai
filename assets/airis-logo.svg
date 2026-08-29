@@ -1,0 +1,121 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">AIRIS-AI Logo</title>
+<desc id="desc">AIRIS-AI Artificial Intelligence Responsive Integrated System - Voice-First Neural OS by Umaiz Sufiyan</desc>
+<defs>
+  <radialGradient id="bgGrad" cx="50%" cy="38%" r="75%">
+    <stop offset="0%" stop-color="#0a1f18" stop-opacity="1"/>
+    <stop offset="55%" stop-color="#050505" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
+  </radialGradient>
+  <linearGradient id="irisGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#059669"/>
+  </linearGradient>
+  <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#a7f3d0"/>
+    <stop offset="100%" stop-color="#10b981"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="12" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0.06  0 0 0 0 0.72  0 0 0 0 0.51  0 0 0 0.6 0"/>
+  </filter>
+</defs>
+
+<!-- Background -->
+<rect width="600" height="600" rx="48" fill="#050505"/>
+<rect width="600" height="600" rx="48" fill="url(#bgGrad)"/>
+<rect width="600" height="600" rx="48" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+<!-- Subtle grid -->
+<g opacity="0.04" stroke="white" stroke-width="0.6">
+  <line x1="0" y1="120" x2="600" y2="120"/>
+  <line x1="0" y1="240" x2="600" y2="240"/>
+  <line x1="0" y1="360" x2="600" y2="360"/>
+  <line x1="0" y1="480" x2="600" y2="480"/>
+  <line x1="120" y1="0" x2="120" y2="600"/>
+  <line x1="240" y1="0" x2="240" y2="600"/>
+  <line x1="360" y1="0" x2="360" y2="600"/>
+  <line x1="480" y1="0" x2="480" y2="600"/>
+</g>
+
+<!-- Outer ambient glow -->
+<circle cx="300" cy="215" r="145" fill="#10b981" opacity="0.06" filter="url(#softGlow)"/>
+
+<!-- Icon Group -->
+<g transform="translate(300,215)">
+  <!-- Orbit rings -->
+  <circle r="112" fill="none" stroke="rgba(16,185,129,0.08)" stroke-width="1" stroke-dasharray="4 8"/>
+  <circle r="92" fill="none" stroke="rgba(16,185,129,0.12)" stroke-width="1"/>
+  <circle r="72" fill="none" stroke="rgba(16,185,129,0.06)" stroke-width="1"/>
+
+  <!-- Eye outer shape - IRIS reference, now AIRIS -->
+  <path d="M -78 0 C -52 -44, 52 -44, 78 0 C 52 44, -52 44, -78 0 Z" fill="rgba(16,185,129,0.08)" stroke="#10b981" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M -78 0 C -52 -44, 52 -44, 78 0 C 52 44, -52 44, -78 0 Z" fill="none" stroke="white" stroke-width="0.6" opacity="0.18"/>
+
+  <!-- Upper lid highlight -->
+  <path d="M -62 -12 C -30 -32, 30 -32, 62 -12" fill="none" stroke="white" stroke-width="1.1" opacity="0.22" stroke-linecap="round"/>
+
+  <!-- Iris / pupil -->
+  <circle r="34" fill="url(#irisGrad)" stroke="rgba(255,255,255,0.85)" stroke-width="1.2" opacity="0.98" filter="url(#glow)"/>
+  <circle r="34" fill="none" stroke="white" stroke-width="0.7" opacity="0.22"/>
+  <circle r="20" fill="#020805" opacity="0.92"/>
+  <circle r="20" fill="none" stroke="rgba(16,185,129,0.9)" stroke-width="1"/>
+  <!-- A letter inside iris -->
+  <text x="0" y="11" text-anchor="middle" font-family="Space Grotesk, Inter, system-ui, sans-serif" font-weight="900" font-size="30" letter-spacing="0.5" fill="#eafff6">A</text>
+  <!-- Specular highlight -->
+  <circle cx="-9" cy="-9" r="5" fill="white" opacity="0.88"/>
+  <circle cx="-5" cy="-5" r="1.8" fill="white" opacity="0.6"/>
+
+  <!-- Orbit nodes -->
+  <g opacity="0.95">
+    <circle cx="0" cy="-92" r="5.5" fill="#06b6d4" stroke="#050505" stroke-width="1.2"/>
+    <circle cx="0" cy="-92" r="1.6" fill="white" opacity="0.85"/>
+    <circle cx="80" cy="46" r="5.5" fill="#10b981" stroke="#050505" stroke-width="1.2"/>
+    <circle cx="80" cy="46" r="1.6" fill="white" opacity="0.85"/>
+    <circle cx="-80" cy="46" r="5.5" fill="#10b981" stroke="#050505" stroke-width="1.2"/>
+    <circle cx="-80" cy="46" r="1.6" fill="white" opacity="0.85"/>
+  </g>
+  <!-- Connection lines -->
+  <path d="M 0 -86 L 0 -38" stroke="rgba(6,182,212,0.45)" stroke-width="1" stroke-dasharray="3 4"/>
+  <path d="M 75 42 L 32 18" stroke="rgba(16,185,129,0.45)" stroke-width="1" stroke-dasharray="3 4"/>
+  <path d="M -75 42 L -32 18" stroke="rgba(16,185,129,0.45)" stroke-width="1" stroke-dasharray="3 4"/>
+</g>
+
+<!-- Brand Text -->
+<text x="300" y="353" text-anchor="middle" font-family="Space Grotesk, Inter, system-ui, sans-serif" font-weight="900" font-size="64" letter-spacing="9" fill="#f4f4f5">AIRIS<tspan fill="url(#textGrad)">-AI</tspan></text>
+<!-- Underline accent -->
+<rect x="178" y="368" width="244" height="1.8" rx="0.9" fill="url(#textGrad)" opacity="0.9"/>
+<rect x="285" y="368" width="30" height="1.8" rx="0.9" fill="white" opacity="0.18"/>
+
+<!-- Subtitle -->
+<text x="300" y="394" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, monospace" font-weight="600" font-size="11.5" letter-spacing="3.6" fill="#10b981" opacity="0.95">ARTIFICIAL INTELLIGENCE RESPONSIVE</text>
+<text x="300" y="414" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, monospace" font-weight="600" font-size="11.5" letter-spacing="3.6" fill="#10b981" opacity="0.95">INTEGRATED SYSTEM</text>
+
+<!-- Divider -->
+<g opacity="0.08" stroke="white" stroke-width="0.7">
+  <line x1="255" y1="432" x2="345" y2="432"/>
+</g>
+<circle cx="300" cy="432" r="1.7" fill="#10b981" opacity="0.9"/>
+
+<!-- Tagline -->
+<text x="300" y="452" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-weight="500" font-size="10.5" letter-spacing="4.2" fill="#a1a1aa">VOICE-FIRST • NEURAL OS</text>
+
+<!-- Footer -->
+<rect x="24" y="532" width="552" height="44" rx="14" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.06)"/>
+<text x="300" y="549" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="9" letter-spacing="2.2" fill="#d4d4d8">BY <tspan fill="#f4f4f5" font-weight="800">UMAIZ SUFIYAN</tspan>  •  ORIGINAL BY HARSH PANDEY • IRISX-AI</text>
+<text x="300" y="561" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="7.5" letter-spacing="1.8" fill="#71717a">REBRANDED • OPEN CORE • MIT • V1.7.0</text>
+
+<!-- Top left label -->
+<g font-family="JetBrains Mono, monospace" font-size="7" letter-spacing="1.6" fill="#52525b">
+  <text x="28" y="28">● AIRIS-AI</text>
+  <text x="28" y="38" opacity="0.7">NEURAL CORE v1.7</text>
+</g>
+<g font-family="JetBrains Mono, monospace" font-size="7" letter-spacing="1.2" fill="#52525b" text-anchor="end">
+  <text x="572" y="28">AIRIS-AI.SVG</text>
+  <text x="572" y="38" opacity="0.7">600×600</text>
+</g>
+</svg>

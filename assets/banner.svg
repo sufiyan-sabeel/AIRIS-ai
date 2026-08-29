@@ -1,0 +1,62 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">AIRIS-AI Banner</title>
+<desc id="desc">AIRIS-AI Voice-First Neural OS Banner - Artificial Intelligence Responsive Integrated System</desc>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050505"/>
+    <stop offset="100%" stop-color="#0a0f0d"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="18%" cy="50%" r="55%">
+    <stop offset="0%" stop-color="rgba(16,185,129,0.18)"/>
+    <stop offset="100%" stop-color="rgba(5,5,5,0)"/>
+  </radialGradient>
+  <linearGradient id="iris" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#059669"/>
+  </linearGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="10"/>
+  </filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+<rect width="1200" height="360" rx="22" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+<!-- Left icon -->
+<g transform="translate(185,180)">
+  <circle r="78" fill="none" stroke="rgba(16,185,129,0.09)" stroke-width="1"/>
+  <circle r="98" fill="none" stroke="rgba(16,185,129,0.06)" stroke-width="1" stroke-dasharray="5 8"/>
+  <path d="M -62 0 C -42 -36, 42 -36, 62 0 C 42 36, -42 36, -62 0 Z" fill="rgba(16,185,129,0.07)" stroke="#10b981" stroke-width="1.9"/>
+  <circle r="28" fill="url(#iris)" filter="url(#softGlow)"/>
+  <circle r="16" fill="#020805"/>
+  <text x="0" y="9.5" text-anchor="middle" font-family="Space Grotesk, Inter, sans-serif" font-weight="900" font-size="24" fill="#eafff6">A</text>
+  <circle cx="-7.5" cy="-7.5" r="3.5" fill="white" opacity="0.9"/>
+  <circle cx="0" cy="-78" r="4" fill="#06b6d4"/>
+  <circle cx="67.5" cy="39" r="4" fill="#10b981"/>
+  <circle cx="-67.5" cy="39" r="4" fill="#10b981"/>
+</g>
+
+<!-- Divider -->
+<rect x="360" y="46" width="1.2" height="268" rx="0.6" fill="rgba(255,255,255,0.07)"/>
+
+<!-- Right text -->
+<g font-family="Space Grotesk, Inter, sans-serif">
+  <text x="410" y="132" font-weight="900" font-size="68" letter-spacing="8.5" fill="#f4f4f5">AIRIS<tspan fill="#10b981">-AI</tspan></text>
+  <rect x="410" y="142" width="420" height="2" rx="1" fill="#10b981" opacity="0.95"/>
+  <text x="410" y="172" font-family="JetBrains Mono, monospace" font-weight="600" font-size="12" letter-spacing="4.2" fill="#10b981">ARTIFICIAL INTELLIGENCE RESPONSIVE</text>
+  <text x="410" y="192" font-family="JetBrains Mono, monospace" font-weight="600" font-size="12" letter-spacing="4.2" fill="#10b981">INTEGRATED SYSTEM</text>
+  <text x="410" y="228" font-family="Inter, sans-serif" font-weight="500" font-size="12.5" letter-spacing="3.8" fill="#a1a1aa">VOICE-FIRST • NEURAL OS</text>
+  <text x="410" y="252" font-family="Inter, sans-serif" font-size="10.5" letter-spacing="1.2" fill="#71717a">Build Faster. Automate Workflows. Control your Desktop with Voice.</text>
+  <g transform="translate(410,276)">
+    <rect width="132" height="28" rx="14" fill="rgba(16,185,129,0.10)" stroke="rgba(16,185,129,0.22)"/>
+    <text x="66" y="18.5" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="700" font-size="8.5" letter-spacing="1.6" fill="#34d399">BY UMAIZ SUFIYAN</text>
+  </g>
+  <text x="560" y="295" font-family="JetBrains Mono, monospace" font-size="7.5" letter-spacing="1.2" fill="#52525b">ORIGINAL BY HARSH PANDEY • IRISX-AI • MIT • V1.7.0</text>
+</g>
+
+<!-- Top tags -->
+<g font-family="JetBrains Mono, monospace" font-size="7" letter-spacing="1.4" fill="#3f3f46">
+  <text x="24" y="28">AIRIS-AI • NEURAL OS</text>
+  <text x="1176" y="28" text-anchor="end">1200×360 • SVG</text>
+</g>
+</svg>

@@ -1,5 +1,7 @@
 <div align="center">
 
+![AIRIS-AI Banner](./assets/banner.svg)
+
 ### Voice-First Desktop AI Assistant
 
 **Build Faster. Automate Workflows. Control your Desktop with Voice Commands.**
