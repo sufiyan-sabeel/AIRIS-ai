@@ -18,7 +18,9 @@ Please read this guide to ensure your Pull Requests (PRs) merge smoothly and kee
 
 ## 👑 Maintainers
 
-- **Harsh Pandey** - Creator & Lead Architect
+- **Umaiz Sufiyan** - Creator & Lead Maintainer (AIRIS-AI Rebrand)
+  - GitHub: [sufiyan-sabeel](https://github.com/sufiyan-sabeel)
+- **Harsh Pandey** - Original Creator & Lead Architect (IRIS-AI by IRISX-AI)
   - GitHub: [201Harsh](https://github.com/201Harsh)
   - Instagram: [201harshs](https://www.instagram.com/201harshs/)
 

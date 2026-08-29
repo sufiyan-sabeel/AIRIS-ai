@@ -1,7 +1,5 @@
 <div align="center">
 
-![AIRIS Neural OS Documentation Banner](./assets/banner.png)
-
 ### Voice-First Desktop AI Assistant
 
 **Build Faster. Automate Workflows. Control your Desktop with Voice Commands.**
@@ -1053,14 +1051,21 @@ Use responsibly. The maintainers are not liable for misuse, data loss, or uninte
 
 # 👨‍💻 Architect
 
-**Harsh Pandey**  
-AI Systems Engineer & Creator
+**Umaiz Sufiyan**  
+AI Systems Engineer & Creator (AIRIS-AI Rebrand & Maintainer)
 
-**Connect:**
+**Original Architect:** **Harsh Pandey** – IRIS-AI by IRISX-AI  
+*Original creation by Harsh Pandey; rebranded and maintained as AIRIS-AI by Umaiz Sufiyan.*
+
+**Connect (Original):**
 
 - 🎬 Instagram: [@201Harshs](https://www.instagram.com/201harshs/)
 - 💻 GitHub: [@201Harsh](https://github.com/201Harsh)
 - 🤝 Sponsor: [GitHub Sponsors](https://github.com/sponsors/201Harsh)
+
+**Connect (AIRIS-AI Maintainer):**
+
+- 💻 GitHub: [@sufiyan-sabeel](https://github.com/sufiyan-sabeel)
 
 ---
 
@@ -1131,6 +1136,6 @@ If you find AIRIS valuable, consider:
 
 ---
 
-Made with ❤️ by [Harsh Pandey](https://instagram.com/201Harshs)
+Made with ❤️ by [Umaiz Sufiyan](https://github.com/sufiyan-sabeel) (original by [Harsh Pandey](https://instagram.com/201Harshs))
 
-**System Online.**
+**System Online. AIRIS-AI by Umaiz Sufiyan.**

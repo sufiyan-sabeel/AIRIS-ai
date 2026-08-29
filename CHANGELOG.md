@@ -300,6 +300,6 @@ Format: `[version] — [codename] — [date]`
 
 ---
 
-> Made with ❤️ by [Harsh Pandey](https://github.com/201Harsh)
+> Made with ❤️ by [Umaiz Sufiyan](https://github.com/sufiyan-sabeel) (original by [Harsh Pandey](https://github.com/201Harsh))
 >
-> **System Online. Neural Core active.**
+> **System Online. Neural Core active. AIRIS-AI Rebrand.**
