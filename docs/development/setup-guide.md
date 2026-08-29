@@ -1,6 +1,8 @@
-# Development Setup Guide
+# Development Setup Guide – AIRIS-AI (All Free)
 
-This guide details the process for standing up the IRIS development environment.
+**AIRIS-AI by Umaiz Sufiyan – 100% free, no payment gateway, no sponsorship.** All execution tools unlocked locally.
+
+This guide details the process for standing up the AIRIS-AI development environment.
 
 ## Prerequisites
 
@@ -10,16 +12,16 @@ Ensure your system meets the following requirements:
 - **Version Control:** Git
 - **IDE:** VS Code or Cursor recommended.
 
-## Option 1: Free Tier (UI Shell Development)
+## Option 1: AIRIS-AI – Full Access (Free, Recommended)
 
-For developers looking to explore or contribute to the React frontend, you can use the public repository. Note that core system execution tools are stubbed or disabled in this tier.
+For all developers – full React frontend + full system execution tools, **free and unlimited** (no sponsorship, no private repo):
 
 ```bash
-# 1. Clone the public repository
-git clone https://github.com/IRISX-AI/IRIS-AI
+# 1. Clone AIRIS-AI (free, all features)
+git clone https://github.com/sufiyan-sabeel/AIRIS-ai.git
 
 # 2. Navigate into the directory
-cd IRIS-AI
+cd AIRIS-ai
 
 # 3. Install dependencies
 npm install
@@ -28,23 +30,17 @@ npm install
 npm run dev
 ```
 
-## Option 2: IRIS Insider (Core Access)
+> **Original IRIS required sponsorship:** Option 1 was UI Shell only (tools stubbed) and Option 2 required **IRIS Insider ($15/mo)** private `iris-insiders` repo. **AIRIS-AI removes that – everything is free in the public AIRIS-ai repo.** No payment gateway.
 
-To unlock actual Voice-First Desktop Assistant functionality, you must be a GitHub Sponsor at the **IRIS Insider ($15/mo)** tier. This grants you access to the private `iris-insiders` repository.
+## Option 2: Legacy IRIS Insider (Original, Now Free)
+
+Original IRIS Insider is now merged into AIRIS-AI – no separate private repo needed. All voice-first functionality is in the public AIRIS-AI repo above.
 
 ```bash
-# 1. Ensure you have accepted the GitHub invitation to the private repo after sponsoring.
-
-# 2. Clone the private insiders repository
-git clone https://github.com/IRISX-AI/iris-insiders
-
-# 3. Navigate into the directory
-cd iris-insiders
-
-# 4. Install dependencies
+# No private repo needed – use AIRIS-AI public repo (free)
+git clone https://github.com/sufiyan-sabeel/AIRIS-ai.git
+cd AIRIS-ai
 npm install
-
-# 5. Launch the full application
 npm run dev
 ```
 

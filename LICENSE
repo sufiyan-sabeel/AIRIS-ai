@@ -1,30 +1,16 @@
-# 📜 IRIS Neural OS License (Custom Source-Available Agreement)
+# 📜 AIRIS-AI License (MIT – 100% Free, No Payment Gateway)
 
-**Copyright (c) 2026 Harsh Pandey**
+**Copyright (c) 2026 Umaiz Sufiyan (original IRIS-AI by Harsh Pandey / IRISX-AI)**
 
-This license governs the public code repository, frontend presentation layers, and accessible working code snippets of the IRIS Neural OS project. The hidden core voice engine, advanced execution tools, and closed-source backend architectures are protected properties and are entirely excluded from this agreement.
+**AIRIS-AI is 100% free and open source – no Razorpay, no payment gateway, no commercial restrictions beyond MIT.**
 
-### Terms and Conditions
+### MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Software, subject to the following strict conditions:
-
-#### 1. Educational and Personal Use Only
-
-The Software is provided strictly for personal exploration, educational validation, and non-profit use.
-
-#### 2. No Commercial Use or Paid Work
-
-You may **NOT** use, modify, merge, or distribute this Software for any commercial purposes, paid client projects, multi-user enterprise deployments, or any revenue-generating activities. Commercial execution or distribution strictly requires an authorized Enterprise Tier subscription ($50/mo tier) or an explicit corporate agreement.
-
-#### 3. Strict Enforcement
-
-Any unauthorized commercial exploitation, license terms violation, or circumvention of the core execution payload structure immediately terminates this license. Violations will subject the individual or entity to immediate legal action and liability for damages.
-
----
-
-### Attribution Requirement
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+**Original IRIS-AI attribution:** Original project IRIS-AI by Harsh Pandey (IRISX-AI) – custom source-available license with commercial restrictions (now removed for AIRIS-AI). AIRIS-AI rebrand and maintenance by **Umaiz Sufiyan** is MIT.
 
 ---
 

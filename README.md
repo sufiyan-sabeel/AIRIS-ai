@@ -89,7 +89,7 @@ It is a **Voice-First Desktop AI Assistant** that executes real-world actions ac
 - Updated AI State colors: **Thinking (Blue)**, **Speaking (Green)**, and **Standby (White)**.
 - Enhanced Infrastructure: **New server** added for more stability and control.
 - **Important**: All previous versions prior to 1.7.0 are completely deprecated and no longer function.
-- **Free Tier Rate Limit**: Free tier is now limited to 12 turns and 5 tool calls per day (resets 12:00 PM - 2:00 PM).
+- **All Free – No Limits**: All tiers now unlimited – 12 turns / 5 tool calls limit removed. **100% free, no rate limits.**
 - Bug fixes for Email, WhatsApp, Image Generation, Ghost Control, Wallpaper Engine, Camera, and Screen Context for AI.
 
 ---
@@ -367,67 +367,63 @@ AIRIS uses **enterprise-grade code protection** to secure proprietary agent logi
 
 ---
 
-# ⚡ Why Upgrade to AIRIS Pro?
+# 🎉 All Features Free – No Payment Gateway
 
-AIRIS is built on an **Open Core model**. While the Free Tier (Public Repository) gives you access to the community UI and basic templates, the **core voice engine, agent loops, and advanced execution tools** are protected within the AIRIS Pro ecosystem.
+**AIRIS-AI by Umaiz Sufiyan is 100% free. No Razorpay, no checkout, no license, no fees, no rate limits.**
 
-Upgrading to **AIRIS Desktop PRO (₹999 + ₹27 processing fee = ₹1026 Total)**, **AIRIS-MX Mobile PRO (₹1499 + ₹66 = ₹1565 Total)**, or the **AIRIS Ultimate Bundle PRO (₹1999 + ₹97 = ₹2096 Total)** unlocks the complete autonomous controller experience.
+> **Note:** Original IRIS-AI used a paid PRO model (Razorpay + ₹999/₹1499/₹1999 tiers + fees). **AIRIS-AI removes the entire payment gateway – everything is free and unlimited.** Maintained by **Umaiz Sufiyan** (original by Harsh Pandey / IRISX-AI).
 
-## 🎁 Free Tier (Base Engine)
+## 🎁 Free – Everything Included
 
-**Cost:** Free
+**Cost:** Free – Unlimited – No limits
 
-- Access to the public frontend shell (React + Tailwind)
-- Community Layout Config & Themes
-- Standard PIN-only OS Vault lockdown
-- Basic UI Widgets & Desktop Shell structure
-- **Core File & Desktop Management:** Read/Write files, search system, open apps, move windows.
-- **Basic Automations:** Ghost typing, scroll, shortcuts.
-- **Maps & Weather:** Live location, navigation, and weather insights.
-- **Docs & Media:** Play Tic Tac Toe, Manage PC Settings, Get Stock Price, Spotify Control, Read Notes, Read Gallery.
-- **Usage Limits:** Rate limited to 10 turns and 5 tool calls per day. Quota resets everyday at 12:00 PM - 2:00 PM.
+- Access to the full frontend shell (React + Tailwind) + all premium UI, themes, and desktop shell
+- Standard PIN + OS Vault (local encrypted vault – `iris_secure_vault.json`)
+- **Core File & Desktop Management:** Read/Write files, search system, open apps, move windows
+- **Basic Automations:** Ghost typing, scroll, shortcuts
+- **Maps & Weather:** Live location, navigation, and weather insights
+- **Docs & Media:** Play Tic Tac Toe, Manage PC Settings, Get Stock Price, Spotify Control, Read Notes, Read Gallery
+- **All Pro Capabilities Unlocked (previously paid):** Hands-Free Wake Up Word, ScreenPeeler OCR, Phantom Ghost Keyboard, Small Ghost Overlay, Mobile Telekinesis, Deep Research & Code Oracle, Wormhole Networking, Generative Power (PPT/Excel/Image/Wallpaper), Live UI Forging, Direct Communications (WhatsApp/Email), Deep Work Protocol
+- **Usage Limits:** **None – Unlimited turns and tool calls. No daily quota, no 12:00 PM reset.**
 
-## 🚀 AIRIS Paid Pro Tiers
+## 🚀 All Capabilities Included (Previously PRO)
 
-- **AIRIS Desktop PRO:** ₹999 base + ₹27 gateway fee (₹1026 Total Checkout)
-- **AIRIS-MX Mobile PRO:** ₹1499 base + ₹66 gateway fee (₹1565 Total Checkout)
-- **AIRIS Ultimate Bundle PRO:** ₹1999 base + ₹97 gateway fee (₹2096 Total Checkout)
+Previously paid tiers are now **free and unlocked by default**:
 
-### Key Pro Capabilities:
+- **AIRIS Desktop PRO:** Now **Free** (was ₹999 + ₹27 fee) – unlocked
+- **AIRIS-MX Mobile PRO:** Now **Free** (was ₹1499 + ₹66 fee) – unlocked
+- **AIRIS Ultimate Bundle PRO:** Now **Free** (was ₹1999 + ₹97 fee) – unlocked
 
-- **Instant License Activation:** Keyless Google OAuth upgrade. Pay once, keep it forever.
-- **Hands-Free Wake Up Word:** Passive offline activation ("Hey, AIRIS").
-- **ScreenPeeler Multimodal AI OCR:** Instantly scan and extract text/code from your screen (Ctrl+Alt+X).
-- **Phantom Ghost Keyboard:** Global inline injection (Ctrl+Alt+Space).
-- **Small Ghost Overlay:** Instantly summon a fast-access floating command overlay via `Ctrl + Shift + I`.
-- **Mobile Telekinesis (Android):** Full ADB remote actions, telemetry, camera hijacking, file pushing, and APK deployment.
-- **Deep Research & Code Oracle:** Multi-step autonomous web crawling, RAG codebase indexing, and vector memory, Smart File Search.
-- **Wormhole Networking:** Instantly expose local localhost ports to the public internet.
-- **Generative Power:** PPT/Excel Generation, Aesthetic Image generation, Change Wallpaper.
-- **Live UI Forging:** Build entire animated websites (GSAP + Tailwind) and Forge Screen UI into live Widgets.
-- **Direct Communications:** Dispatch WhatsApp messages automatically and directly send emails.
-- **Deep Work Protocol:** Execute Sequences, Terminal Run, Instantly mute distractions, kill specific apps, and optimize environment focus.
+### Included Capabilities:
 
-### 📋 Ecosystem Governance & Administrative Fee Schedule
+- **No License Activation Required:** No Google OAuth purchase, no key, no checkout – just add your own API keys (BYOK) and run
+- **Hands-Free Wake Up Word:** Passive offline activation ("Hey, AIRIS")
+- **ScreenPeeler Multimodal AI OCR:** Instantly scan and extract text/code from your screen (Ctrl+Alt+X)
+- **Phantom Ghost Keyboard:** Global inline injection (Ctrl+Alt+Space)
+- **Small Ghost Overlay:** Instantly summon a fast-access floating command overlay via `Ctrl + Shift + I`
+- **Mobile Telekinesis (Android):** Full ADB remote actions, telemetry, camera hijacking, file pushing, and APK deployment
+- **Deep Research & Code Oracle:** Multi-step autonomous web crawling, RAG codebase indexing, and vector memory, Smart File Search
+- **Wormhole Networking:** Instantly expose local localhost ports to the public internet
+- **Generative Power:** PPT/Excel Generation, Aesthetic Image generation, Change Wallpaper
+- **Live UI Forging:** Build entire animated websites (GSAP + Tailwind) and Forge Screen UI into live Widgets
+- **Direct Communications:** Dispatch WhatsApp messages automatically and directly send emails
+- **Deep Work Protocol:** Execute Sequences, Terminal Run, Instantly mute distractions, kill specific apps, and optimize environment focus
 
-- 🔄 **Mobile ↔ Desktop Platform Swap Fee:** Flat **₹499** fee to transfer entitlement from Mobile to Desktop or Desktop to Mobile.
-- ✉️ **Google / Gmail Account Email Swap Fee:** Flat **₹129 per request** to transfer registered Google/Gmail account access to a new email ID.
-- 💾 **Device HWID Reset & Migration Fee:** Mandatory **₹199 per reset** to clear hardware slots or register new workstation hardware.
-- ⏳ **Inactive Account Archival (>60 Days) Fee:** **₹299** processing fee to unarchive accounts with zero activity turns for over 60 consecutive days.
-- 💳 **Gateway Dispute Operational Penalty:** **₹1000** fine for invalid/fraudulent payment chargebacks, payable prior to unban review.
-- ⚖️ **Tiered Account Unban Fine Schedule:** **₹500** (1st Offense), **₹1500** (2nd Offense), **₹5000** (3rd Offense). Post-3rd offense results in permanent unappealable HWID ban.
+### 📋 No Fees – Payment Gateway Removed
 
-### How to Upgrade?
+- 🔄 **Mobile ↔ Desktop Platform Swap:** **Free – no ₹499 fee**
+- ✉️ **Google / Gmail Account Email Swap:** **Free – no ₹129 fee**
+- 💾 **Device HWID Reset & Migration:** **Free – no ₹199 fee**
+- ⏳ **Inactive Account Archival:** **Free – no ₹299 fee**
+- 💳 **Gateway Dispute:** **No Razorpay gateway – no ₹1000 chargeback penalty**
+- ⚖️ **Account Unban:** **No fines (₹500/₹1500/₹5000) – no HWID ban fees**
 
-1. **Authenticate with Google** to create your secure identity.
-2. **Purchase a License** via our Secure Checkout (Razorpay).
-3. **Unlock the AIRIS PRO** instantly.
+### How to Use? (No Purchase)
 
-[**Check Out The Full Free vs PRO Tool Comparison**](./Comparison.md)
+1. **Clone AIRIS-AI** and install
+2. **Add your API keys** in Settings (Gemini, Groq, Tavily, Hugging Face – BYOK, encrypted locally)
+3. **Run – everything is unlocked instantly, no checkout, no Razorpay, no license**
 
----
-
----
 
 # 🏗️ Architecture
 
@@ -550,20 +546,19 @@ npm run build:linux  # Linux
 
 ---
 
-## For Sponsors ($5+/month)
+## For All Users – Free & Open
 
-**Benefits:**
+**Benefits (All Free, No Sponsorship):**
 
-- ✅ Access to working code examples
-- ✅ Advanced setup documentation
-- ✅ Private support channel
+- ✅ Access to all working code examples (public AIRIS-AI repo – no private repo)
+- ✅ Full setup documentation (public, no sponsor-only docs)
+- ✅ Community support via GitHub Issues/Discussions (free)
 
-**How to Access:**
+**How to Access (Free):**
 
-1. Become a sponsor: [GitHub Sponsors](https://github.com/sponsors/201Harsh)
-2. Get private repo access via GitHub
-3. Clone private repository with examples
-4. Follow sponsor-only documentation
+1. Clone the public repo: `git clone https://github.com/sufiyan-sabeel/AIRIS-ai.git`
+2. `cd AIRIS-ai && npm install && npm run dev`
+3. No private repo, no sponsorship – everything is free and open (original IRIS required sponsorship via 201Harsh)
 
 ---
 
@@ -1073,47 +1068,42 @@ AI Systems Engineer & Creator (AIRIS-AI Rebrand & Maintainer)
 
 # 📜 License
 
-**Dual License Model:**
+**License – 100% Free (MIT):**
 
-1. **Free Tier (Public Source):** MIT License
-2. **Sponsors & Enterprise:** Custom Commercial License
+**AIRIS-AI is MIT licensed – 100% free, no payment gateway, no commercial restrictions.** Original IRIS-AI used a dual-license (MIT for free tier + custom commercial for sponsors – $50/mo). **AIRIS-AI removes that – everything is MIT.**
 
-See [LICENSE](LICENSE) file for details.
+See [LICENSE](LICENSE) file for details. Maintained by Umaiz Sufiyan (original by Harsh Pandey).
 
 ---
 
 # 🎯 Get Started
 
-### Free Users (UI Shell Only)
+### All Users – Full Access (All Free, No Payment Gateway)
 
 ```bash
-# You can test the frontend UI, but the core AI execution is disabled.
-git clone [https://github.com/IRISX-AI/IRIS-AI](https://github.com/IRISX-AI/IRIS-AI)
-cd IRIS-AI
+# All features free – UI + core AI execution unlocked, no sponsorship, no private repo
+git clone https://github.com/sufiyan-sabeel/AIRIS-ai.git
+cd AIRIS-ai
 npm install
 npm run dev
 ```
 
-### Sponsors
+> **Original IRIS required sponsorship:** Free tier was UI-only, $5/mo gave snippets, $15/mo+ gave local execution via private `iris-insiders` repo, $50/mo gave full source. **AIRIS-AI removes all that – everything is free in the public repo.**
+
+### Previously Paid Tiers – Now Free
 
 ```bash
-# 🟢 $5/mo Tier (IRIS Supporter):
-# -> Gain access to basic working code snippets.
-# -> (Note: This is not enough to run the full OS locally).
+# 🟢 $5/mo Tier (IRIS Supporter) – Now FREE:
+# -> Previously: basic working code snippets (not enough to run OS)
+# -> Now: all snippets free in public AIRIS-ai repo
 
-# ⚡ $15/mo Tier (IRIS Insider) & Above:
-# -> Clone the private iris-insiders repository.
-# -> Unlock local execution and full working AI agents.
-# -> Join the private sponsor Discord for setup support.
-```
+# ⚡ $15/mo Tier (IRIS Insider) & Above – Now FREE:
+# -> Previously: private iris-insiders repository, local execution
+# -> Now: local execution free in public repo, no sponsorship
 
-### Enterprise
-
-```bash
-# 🏢 $50/mo Tier (Enterprise & Alpha):
-# -> Full unprotected source code access.
-# -> Commercial license + custom deployment support.
-# Contact: irisaidevop@gmail.com
+# 🏢 $50/mo Tier (Enterprise & Alpha) – Now FREE:
+# -> Previously: full unprotected source, commercial license, custom support
+# -> Now: full source free under MIT, commercial use allowed, no fee
 ```
 
 ---
@@ -1126,15 +1116,15 @@ npm run dev
 
 ---
 
-# ❤️ Support AIRIS
+# ❤️ Support AIRIS-AI (Free)
 
-If you find AIRIS valuable, consider:
+If you find AIRIS-AI valuable – **100% free, no payment gateway** – consider:
 
-- ⭐ **Star** the repository
+- ⭐ **Star** the repository (free)
 - 💬 **Share** with your network
-- 🤝 **Sponsor** development ($5/month)
-- 🔗 **Integrate** AIRIS into your workflow
-- 🐛 **Report** bugs & suggest features
+- 🤝 **Contribute** – open a PR (no sponsorship needed)
+- 🔗 **Integrate** AIRIS-AI into your workflow (free, unlimited)
+- 🐛 **Report** bugs & suggest features (free)
 
 ---
 

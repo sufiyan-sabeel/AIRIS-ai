@@ -1,26 +1,25 @@
-# Support for IRIS Voice-First Assistant
+# Support for AIRIS-AI Voice-First Assistant
 
-Thank you for being part of the IRIS community!
+Thank you for being part of the AIRIS-AI community! Maintained by **Umaiz Sufiyan** (original IRIS by Harsh Pandey / IRISX-AI).
 
-As IRIS operates on an **Open Core / Sponsorship Model**, our support channels are divided to ensure we can sustain development while helping our users.
+**AIRIS-AI is 100% free – no payment gateway, no Razorpay, no sponsorship tiers. All features unlocked.**
 
-## 🟢 Free Tier (Public UI Shell)
+## 🟢 Free – Everything Included (No Limits)
 
-For users exploring the public repository and UI shell:
+For all users:
 
-- **GitHub Issues:** If you find a reproducible bug in the UI, React components, or public documentation, please [open an issue](https://github.com/IRISX-AI/IRIS-AI/issues).
-- **GitHub Discussions:** Have a question about how the UI is structured or want to share a widget you built? Join the [GitHub Discussions](https://github.com/IRISX-AI/IRIS-AI/discussions).
+- **GitHub Issues:** If you find a reproducible bug in the UI, React components, or public documentation, please [open an issue](https://github.com/sufiyan-sabeel/AIRIS-ai/issues).
+- **GitHub Discussions:** Have a question about how the UI is structured or want to share a widget you built? Join the [GitHub Discussions](https://github.com/sufiyan-sabeel/AIRIS-ai/discussions).
 - **Documentation:** Please thoroughly read the `/docs` folder before asking questions.
+- **Local Execution:** All features now work locally with your own API keys (BYOK) – no sponsorship, no private repo needed. No `iris-insiders` / `iris-labs` gate.
 
-_Note: Free tier users do not receive dedicated support for integrating local execution backends._
+> **Note:** Original IRIS required sponsorship for local execution. **AIRIS-AI removes that – everything is free.**
 
-## ⚡ Sponsored Tiers ($15/mo+)
+## ⚡ Support (Free)
 
-For active GitHub Sponsors who have access to the `iris-insiders` or `iris-labs` repositories:
-
-- **Private Repository Issues:** Please open issues directly in the private repository you have access to. These are prioritized.
-- **Sponsor Discord:** As a sponsor, you receive an invite to the private Discord server. Use the `#insider-support` or `#builder-support` channels for direct architectural communication.
-- **Direct Email:** For account, sponsorship, or licensing inquiries, email **irisaidevop@gmail.com**.
+- **GitHub Issues:** Open issues in the public AIRIS-AI repository – all are prioritized.
+- **Community Discord:** Join the public discussions for architectural help (no sponsor-only gate).
+- **Direct Email:** For AIRIS-AI inquiries, email via GitHub profile of Umaiz Sufiyan.
 
 ## 🚨 Security Vulnerabilities
 

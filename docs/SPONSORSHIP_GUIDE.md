@@ -1,23 +1,14 @@
-# 💰 Sponsorship Guide
+# 🎉 All Free – No Sponsorship Required
 
-IRIS uses an Open Core model.
+**AIRIS-AI by Umaiz Sufiyan is 100% free. No payment gateway, no Razorpay, no tiers – everything unlocked.**
 
-## Free Tier
+Original IRIS used an Open Core + paid sponsorship model. **AIRIS-AI removes all paid tiers – everything is free.**
 
-- UI Shell access, basic integrations.
+## Free – Everything Included
 
-## $5/mo - IRIS Supporter
+- Full UI Shell + all integrations
+- Local execution unlocked (no `iris-insiders` private repo needed)
+- Experimental agents and early tools – included
+- Unprotected source access – available locally, no commercial fee
 
-- Project insights, monthly progress reports.
-
-## $15/mo - IRIS Insider
-
-- Access to private `iris-insiders` repository. Local execution unlocked.
-
-## $30/mo - IRIS Builder
-
-- Access to `iris-labs`. Experimental agents and early tools.
-
-## $50/mo - IRIS Alpha
-
-- Unprotected source code access and commercial deployment rights.
+> **Note:** All features previously locked behind $5/$15/$30/$50 tiers are now **free and unlimited**. No GitHub Sponsors required. Maintained by Umaiz Sufiyan (original by Harsh Pandey / IRISX-AI).

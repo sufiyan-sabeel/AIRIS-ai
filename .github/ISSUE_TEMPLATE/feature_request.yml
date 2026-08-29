@@ -15,11 +15,9 @@ body:
     id: access_tier
     attributes:
       label: Current Access Tier
-      description: Are you currently a sponsor? (This helps us determine if you have access to the backend tools to potentially submit a PR for this feature).
+      description: Which version are you running? (AIRIS-AI is all free – no sponsor tiers).
       options:
-        - Free Tier (Public UI Shell Only)
-        - IRIS Insider ($15/mo - Local Execution)
-        - IRIS Builder / Alpha ($30-$50/mo)
+        - AIRIS-AI Free – All Features (Unlimited) – by Umaiz Sufiyan
     validations:
       required: true
 

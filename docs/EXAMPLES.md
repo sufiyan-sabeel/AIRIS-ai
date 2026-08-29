@@ -1,6 +1,6 @@
-# 📝 Examples
+# 📝 Examples – AIRIS-AI (All Free)
 
-## Creating a Custom Tool (Sponsors Only)
+## Creating a Custom Tool (All Users – Free, No Sponsorship)
 
 ```typescript
 ipcMain.handle('my-custom-tool', async (event, data) => {

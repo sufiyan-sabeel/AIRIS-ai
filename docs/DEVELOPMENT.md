@@ -1,6 +1,6 @@
-# 💻 Developer Guide
+# 💻 Developer Guide – AIRIS-AI (All Free)
 
-For contributors and sponsors working on the IRIS codebase.
+For all contributors working on the AIRIS-AI codebase. **No sponsorship required – all features free.** Maintained by Umaiz Sufiyan (original IRIS by Harsh Pandey).
 
 ## Environment Setup
 1. Use Node.js v23.

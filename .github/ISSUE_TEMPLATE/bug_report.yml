@@ -15,11 +15,9 @@ body:
     id: access_tier
     attributes:
       label: Access Tier
-      description: Which version of IRIS are you currently running? (Crucial for isolating backend vs. frontend issues).
+      description: Which version of AIRIS-AI are you running? (Now all free – no tiers).
       options:
-        - Free Tier (Public UI Shell Only)
-        - IRIS Insider ($15/mo - Local Execution)
-        - IRIS Builder / Alpha ($30-$50/mo)
+        - AIRIS-AI Free – All Features (Unlimited) – by Umaiz Sufiyan
     validations:
       required: true
 
